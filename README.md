@@ -5,4 +5,4 @@ A recommendation app that suggests My-Recommendations to your users
 
 Made for markNine @noeGcamp
 
-[https://my-recommendations.netlify.app/](Live Demo)
+(https://my-recommendations.netlify.app/)[Live Demo]
